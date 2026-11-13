@@ -41,7 +41,7 @@ import { Project } from './projects.interface';
                 <svg class="resource-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .9a11.1 11.1 0 0 0-3.51 21.63c.56.1.76-.24.76-.54v-2.08c-3.1.68-3.76-1.31-3.76-1.31-.51-1.3-1.24-1.65-1.24-1.65-1.01-.7.08-.69.08-.69 1.12.08 1.71 1.15 1.71 1.15 1 .1.34 2.23 3.13 1.6.1-.73.39-1.23.7-1.51-2.47-.28-5.06-1.24-5.06-5.51 0-1.22.44-2.21 1.15-2.99-.12-.28-.5-1.42.11-2.95 0 0 .94-.3 3.05 1.14a10.6 10.6 0 0 1 5.55 0c2.11-1.44 3.05-1.14 3.05-1.14.61 1.53.23 2.67.11 2.95.71.78 1.15 1.77 1.15 2.99 0 4.28-2.6 5.22-5.08 5.5.4.35.75 1.02.75 2.07v3.08c0 .3.2.65.77.54A11.1 11.1 0 0 0 12 .9Z"/></svg>
                 GitHub <span aria-hidden="true">↗</span>
               </a>
-              <a href="/cv-oscar-echeverria.pdf" download="Oscar-Echeverria-CV.pdf">
+              <a href="/Oscar%20Echeverria%20CV.pdf" download="Oscar-Echeverria-CV.pdf">
                 <svg class="resource-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 2h8l5 5v15H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2Zm7 1.5V8h4.5L13 3.5ZM8 12v1.5h8V12H8Zm0 3.5V17h8v-1.5H8Z"/></svg>
                 Descargar CV <span aria-hidden="true">↓</span>
               </a>
@@ -198,7 +198,7 @@ import { Project } from './projects.interface';
               <span class="aside-label aside-social-label">PERFILES</span>
               <a class="social-link" href="https://www.linkedin.com/in/oscar-echeverria-baa5541a4/" target="_blank" rel="noreferrer">LinkedIn <span aria-hidden="true">↗</span></a>
               <a class="social-link" href="https://github.com/oskrecheverria1996" target="_blank" rel="noreferrer">GitHub <span aria-hidden="true">↗</span></a>
-              <a class="social-link" href="/cv-oscar-echeverria.pdf" download="Oscar-Echeverria-CV.pdf">Descargar CV <span aria-hidden="true">↓</span></a>
+              <a class="social-link" href="/Oscar%20Echeverria%20CV.pdf" download="Oscar-Echeverria-CV.pdf">Descargar CV <span aria-hidden="true">↓</span></a>
               <span class="contact-location"><span class="location-dot"></span> Latinoamérica · Disponible Remoto/Hibrido</span>
             </div>
           </div>
