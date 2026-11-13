@@ -30,15 +30,15 @@ export const projects: Project[] = [
     "accent": "violet",
     "infoUrl": "https://davivienda.com",
     "thumbnailUrl": ""
-  },
-  {
-    "number": "04",
-    "category": "BANCA DIGITAL",
-    "title": "Aplicaciones de banca digital",
-    "description": "Desarrollo de experiencias digitales para el sector financiero, trabajando con requisitos empresariales y estándares de calidad.",
-    "tags": ["TypeScript", "Testing", "Calidad"],
-    "accent": "amber",
-    "infoUrl": "",
-    "thumbnailUrl": ""
   }
+  // {
+  //   "number": "04",
+  //   "category": "BANCA DIGITAL",
+  //   "title": "Aplicaciones de banca digital",
+  //   "description": "Desarrollo de experiencias digitales para el sector financiero, trabajando con requisitos empresariales y estándares de calidad.",
+  //   "tags": ["TypeScript", "Testing", "Calidad"],
+  //   "accent": "amber",
+  //   "infoUrl": "",
+  //   "thumbnailUrl": ""
+  // }
 ]

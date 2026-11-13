@@ -14,7 +14,7 @@ import { Project } from './projects.interface';
           <span>Oscar Echeverría</span>
         </a>
         <nav class="main-nav" aria-label="Navegación principal">
-          <a href="#sobre-mi">Sobre mí</a>
+          <a href="#habilidades">Sobre mí</a>
           <a href="#proyectos">Proyectos</a>
           <a href="#proyectos-personales">Personales</a>
           <a href="#contacto">Contacto</a>
@@ -27,14 +27,24 @@ import { Project } from './projects.interface';
           <div class="hero-copy">
             <p class="eyebrow"><span class="eyebrow-line"></span> FRONTEND · WEB · MOBILE</p>
             <h1 id="hero-title">Senior Frontend<br><span>Developer</span></h1>
-            <p class="hero-intro">Soy <strong>Oscar Echeverría</strong>, desarrollador frontend con más de 6 años creando aplicaciones web empresariales con Angular, React y TypeScript, además de experiencia en desarrollo móvil con React Native.</p>
+            <p class="hero-intro">Soy <strong>Oscar Echeverría</strong>, desarrollador frontend con más de 6 años creando aplicaciones web empresariales con Angular, React y TypeScript, desarrollo móvil con React Native, además de experiencia en backend con NodeJS y .NET.</p>
             <div class="hero-actions">
               <a class="button button-primary" href="#proyectos">Explorar proyectos <span aria-hidden="true">↗</span></a>
-              <a class="text-link" href="#sobre-mi">Conoce más <span aria-hidden="true">↓</span></a>
+              <a class="text-link" href="#habilidades">Conoce mis habilidades <span aria-hidden="true">↓</span></a>
             </div>
             <div class="hero-resources">
-              <a href="https://github.com/" target="_blank" rel="noreferrer">GitHub <span aria-hidden="true">↗</span></a>
-              <a href="/cv-oscar-echeverria.pdf" download="Oscar-Echeverria-CV.pdf">Descargar CV <span aria-hidden="true">↓</span></a>
+              <a href="https://www.linkedin.com/in/oscar-echeverria-baa5541a4/" target="_blank" rel="noreferrer">
+                <svg class="resource-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M22.23 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.46c.98 0 1.77-.77 1.77-1.72V1.72C24 .77 23.21 0 22.23 0ZM7.13 20.45H3.57V9h3.56v11.45ZM5.35 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12Zm15.1 13.02H16.9v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.13 1.44-2.13 2.94v5.67H9.37V9h3.41v1.56h.05c.47-.9 1.63-1.85 3.36-1.85 3.59 0 4.26 2.36 4.26 5.42v6.32Z"/></svg>
+                LinkedIn <span aria-hidden="true">↗</span>
+              </a>
+              <a href="https://github.com/oskrecheverria1996" target="_blank" rel="noreferrer">
+                <svg class="resource-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .9a11.1 11.1 0 0 0-3.51 21.63c.56.1.76-.24.76-.54v-2.08c-3.1.68-3.76-1.31-3.76-1.31-.51-1.3-1.24-1.65-1.24-1.65-1.01-.7.08-.69.08-.69 1.12.08 1.71 1.15 1.71 1.15 1 .1.34 2.23 3.13 1.6.1-.73.39-1.23.7-1.51-2.47-.28-5.06-1.24-5.06-5.51 0-1.22.44-2.21 1.15-2.99-.12-.28-.5-1.42.11-2.95 0 0 .94-.3 3.05 1.14a10.6 10.6 0 0 1 5.55 0c2.11-1.44 3.05-1.14 3.05-1.14.61 1.53.23 2.67.11 2.95.71.78 1.15 1.77 1.15 2.99 0 4.28-2.6 5.22-5.08 5.5.4.35.75 1.02.75 2.07v3.08c0 .3.2.65.77.54A11.1 11.1 0 0 0 12 .9Z"/></svg>
+                GitHub <span aria-hidden="true">↗</span>
+              </a>
+              <a href="/cv-oscar-echeverria.pdf" download="Oscar-Echeverria-CV.pdf">
+                <svg class="resource-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 2h8l5 5v15H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2Zm7 1.5V8h4.5L13 3.5ZM8 12v1.5h8V12H8Zm0 3.5V17h8v-1.5H8Z"/></svg>
+                Descargar CV <span aria-hidden="true">↓</span>
+              </a>
             </div>
             <div class="hero-note"><span class="note-rule"></span><span>APLICACIONES EMPRESARIALES · SAAS · TELECOM · BANCA DIGITAL</span></div>
           </div>
@@ -53,19 +63,16 @@ import { Project } from './projects.interface';
             <div class="visual-label label-bottom">FRONTEND <span>↗</span></div>
             <div class="visual-index">01 <span>/</span> 04</div>
           </div>
-          <div class="hero-foot"><span>SCROLL PARA EXPLORAR</span><span class="scroll-mark">↓</span><span class="hero-foot-place">LATINOAMÉRICA · REMOTO</span></div>
         </section>
 
-        <section class="about section-wrap section-pad" id="sobre-mi" aria-labelledby="about-title">
+        <section class="about section-wrap section-pad" id="habilidades" aria-labelledby="about-title">
           <div class="section-heading">
-            <p class="eyebrow"><span class="eyebrow-line"></span> 01 / SOBRE MÍ</p>
+            <p class="eyebrow"><span class="eyebrow-line"></span> 01 / HABILIDADES</p>
             <p class="section-kicker">WEB · MOBILE · PRODUCTOS EMPRESARIALES</p>
           </div>
           <div class="about-grid">
-            <h2 id="about-title">Frontend sólido para productos <span>que mueven negocios.</span></h2>
+            <h2 id="about-title">Tecnologías con las que <span>construyo.</span></h2>
             <div class="about-copy">
-              <p>Soy Senior Frontend Developer con más de 6 años de experiencia desarrollando aplicaciones web empresariales con Angular, React y TypeScript, y conocimientos de desarrollo móvil con React Native.</p>
-              <p>He trabajado en productos SaaS, telecomunicaciones y banca digital, colaborando con equipos multidisciplinarios y metodologías Agile. Mi experiencia incluye arquitecturas frontend modernas, integración con APIs y servicios backend, pruebas unitarias y trabajo con plataformas cloud.</p>
               <div class="skills-grid" aria-label="Tecnologías y habilidades">
                 <article class="skill-group">
                   <h3>Frontend &amp; Mobile</h3>
@@ -76,7 +83,7 @@ import { Project } from './projects.interface';
                 <article class="skill-group">
                   <h3>Backend &amp; APIs</h3>
                   <div class="skill-list">
-                    <span>Node.js</span><span>NestJS</span><span>Express.js</span><span>REST APIs</span>
+                    <span>Node.js</span><span>NestJS</span><span>Express.js</span><span>.NET</span><span>REST APIs</span>
                   </div>
                 </article>
                 <article class="skill-group">
@@ -97,6 +104,12 @@ import { Project } from './projects.interface';
                     <span>Git</span><span>GitHub</span><span>GitLab</span><span>Agile / Scrum</span><span>DDD</span><span>GitHub Copilot</span><span>Figma</span>
                   </div>
                 </article>
+                <article class="skill-group">
+                  <h3>AI</h3>
+                  <div class="skill-list">
+                    <span>Claude</span><span>OpenAI</span><span>Gemini</span><span>Ollama</span>
+                  </div>
+                </article>
               </div>
             </div>
           </div>
@@ -114,11 +127,11 @@ import { Project } from './projects.interface';
           </div>
           <div class="projects-intro">
             <h2 id="projects-title">Casos de <span>estudio.</span></h2>
-            <p>Experiencia en aplicaciones empresariales y productos digitales de distintos sectores. Estas fichas son ejemplos editables: puedes completarlas con proyectos, responsabilidades y resultados concretos.</p>
+            <p>Experiencia en aplicaciones empresariales y productos digitales de distintos sectores. Estos son algunos de los proyectos en los cuales he colaborado a lo largo de mi desarrollo profesional.</p>
           </div>
           <div class="project-grid">
             @for (project of projects; track project.number) {
-              <a class="project-card" [class]="'project-card accent-' + project.accent"  [href]="project.infoUrl" target="_blank" rel="noreferrer" [attr.title]="project.infoUrl !== '' ? 'Ver mas información' : null">
+              <a class="project-card" [class]="'project-card accent-' + project.accent"  [href]="project.infoUrl" target="_blank" rel="noreferrer" [attr.data-tooltip]="project.infoUrl !== '' ? 'Ver mas información' : null">
                 <div class="card-top"><span>{{ project.number }} <span class="card-slash">/</span> {{ project.category }}</span><span class="card-arrow" aria-hidden="true">↗</span></div>
                 <!-- Imagenes -->
                 <!-- <img class="project-thumbnail" [src]="project.thumbnailUrl" [alt]="project.title" loading="lazy" /> -->
@@ -138,7 +151,7 @@ import { Project } from './projects.interface';
               </a>
             }
           </div>
-          <p class="projects-note"><span>NOTA</span> Las fichas ilustran los sectores indicados en tu perfil. Personalízalas con nombres, contribuciones y métricas reales antes de publicar.</p>
+         
         </section>
 
         <section class="personal-projects section-wrap section-pad" id="proyectos-personales" aria-labelledby="personal-projects-title">
@@ -152,7 +165,7 @@ import { Project } from './projects.interface';
           </div>
           <div class="personal-project-grid">
             @for (project of personalProjects; track project.number) {
-              <a class="personal-project-card" [href]="project.repoUrl" target="_blank" rel="noreferrer" title="Ver repositorio">
+              <a class="personal-project-card" [href]="project.repoUrl" target="_blank" rel="noreferrer" data-tooltip="Ver repositorio">
                 <div class="personal-card-top"><span>{{ project.number }} / {{ project.category }}</span><span aria-hidden="true">⌘</span></div>
                 <h3>{{ project.title }}</h3>
                 <p>{{ project.description }}</p>
@@ -164,7 +177,7 @@ import { Project } from './projects.interface';
               </a>
             }
           </div>
-          <p class="projects-note"><span>CONFIGURACIÓN</span> Reemplaza los ejemplos y añade las URLs reales de tus repositorios en <code>personal-projects.json</code>.</p>
+          
         </section>
 
         <section class="contact section-wrap section-pad" id="contacto" aria-labelledby="contact-title">
@@ -208,19 +221,19 @@ export class AppComponent implements OnInit {
   readonly currentYear = new Date().getFullYear();
   
   ngOnInit(): void {
-    this.generateThumbnails();
+    // this.generateThumbnails();
   }
 
-  generateThumbnails() {
-    this.projects = this.projects.map(project => {
-      const endpoint = new URL('https://free.pagepeeker.com/v2/thumbs.php');
-      endpoint.searchParams.set('size', 'x');
-      endpoint.searchParams.set('url', project.infoUrl);
+  // generateThumbnails() {
+  //   this.projects = this.projects.map(project => {
+  //     const endpoint = new URL('https://free.pagepeeker.com/v2/thumbs.php');
+  //     endpoint.searchParams.set('size', 'x');
+  //     endpoint.searchParams.set('url', project.infoUrl);
 
-      return {
-        ...project,
-        thumbnailUrl: endpoint.toString()
-      };
-    });
-  }
+  //     return {
+  //       ...project,
+  //       thumbnailUrl: endpoint.toString()
+  //     };
+  //   });
+  // }
 }

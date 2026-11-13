@@ -21,14 +21,14 @@
     "title": "Productos mobile app",
     "description": "Proyecto hecho en react native con typescript para shop e-commerce.",
     "tags": ["React Native", "Mobile", "TypeScript", "Docker"],
-    "repoUrl": "http://github.com/oskrecheverria1996/react-native-app-productos"
+    "repoUrl": "https://github.com/oskrecheverria1996/react-native-app-productos"
   },
   {
     "number": "04",
-    "category": "REACT",
-    "title": "Proyecto personal 04",
-    "description": "Usa este espacio para compartir un proyecto de integración, APIs, automatización u otra tecnología.",
-    "tags": ["Node.js", "REST APIs"],
-    "repoUrl": ""
+    "category": "ANGULAR",
+    "title": "Angular SSR",
+    "description": "Proyecto hecho en angular con SSR (Server Side Rendering).",
+    "tags": ["Angular", "SSR"],
+    "repoUrl": "https://github.com/oskrecheverria1996/angular-pro-pokemon-ssr"
   }
 ]
