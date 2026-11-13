@@ -1,0 +1,34 @@
+[
+  {
+    "number": "01",
+    "category": "MICROSERVICIOS",
+    "title": "Proyecto Microservicios",
+    "description": "Este es un proyecto de e-commerce con transacciones con microservicios, hecho en NestJS.",
+    "tags": ["NestJS", "NodeJs", "TypeScript", "Google Cloud", "Prisma", "PostgreSQL", "MongoDB", "Docker", "REST APIs"],
+    "repoUrl": "https://github.com/nest-microservices-oscar-echeverria/products-launcher"
+  },
+  {
+    "number": "02",
+    "category": "AGENTIC CLI IA",
+    "title": "Asistente ia para dev",
+    "description": "Agente inteligente de documentación técnica con RAG, Function Calling que usa varios modelos IA. Claude, Openai, Gemini y Ollama",
+    "tags": ["NodeJs", "TypeScript", "Claude", "Ollama"],
+    "repoUrl": "https://github.com/oskrecheverria1996/llm-agent-dev"
+  },
+  {
+    "number": "03",
+    "category": "MOBILE",
+    "title": "Productos mobile app",
+    "description": "Proyecto hecho en react native con typescript para shop e-commerce.",
+    "tags": ["React Native", "Mobile", "TypeScript", "Docker"],
+    "repoUrl": "http://github.com/oskrecheverria1996/react-native-app-productos"
+  },
+  {
+    "number": "04",
+    "category": "REACT",
+    "title": "Proyecto personal 04",
+    "description": "Usa este espacio para compartir un proyecto de integración, APIs, automatización u otra tecnología.",
+    "tags": ["Node.js", "REST APIs"],
+    "repoUrl": ""
+  }
+]

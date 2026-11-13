@@ -1,0 +1,14 @@
+:root {
+  color-scheme: dark;
+  font-family: 'Manrope', sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+  background: #101210;
+}
+
+body { min-width: 320px; margin: 0; }
+::selection { color: #101210; background: #c5f27a; }
+:focus-visible { outline: 2px solid #c5f27a; outline-offset: 4px; }
